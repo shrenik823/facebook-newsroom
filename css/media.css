@@ -1,0 +1,21 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+	header{
+		justify-content: center;
+	}
+	.menu{
+		display: none;
+	}
+	.rightpartheader{
+		display: none;
+	}
+/*	.blog-section{
+       padding: 30px 0px;
+	}
+	.blog-title h4{
+		font-size: 30px;
+		text-align: center;
+	}
+	.blog-middle{
+       flex-direction: column;
+	}*/
+}
